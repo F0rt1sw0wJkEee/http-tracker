@@ -68,5 +68,3 @@ HTTP-TRACKER is a browser extension which tracks the network on the browser (chr
 
 * chrome: https://chrome.google.com/webstore/detail/http-tracker/fklakbbaaknbgcedidhblbnhclijnhbi?hl=en&authuser=0
 
-
-
